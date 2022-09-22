@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **open source projects**
 
-- 🌱 I’m currently learning **PYTHON , ELASTIC SEARCH**
+- 🌱 I’m currently learning **PYTHON , PYTHON FLASK, ELASTIC SEARCH**
 
 - 👯 I’m looking to collaborate on **with other Developers**
 
 - 🤝 I’m looking for help with **open source projects to contribute.**
 
-- 💬 Ask me about **PYTHON , ELASTIC SEARCH , PHP , BOOTSTRAP**
+- 💬 Ask me about **PYTHON , PYTHON FLASK , ELASTIC SEARCH , PHP , BOOTSTRAP**
 
 - 📫 How to reach me **yashchauhan9537@gmail.com**
 
