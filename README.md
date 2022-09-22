@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Graduated computer engineer from g.p.jamnagar</h1>
 <h3 align="center">A passionate full-Stack developer from India</h3>
+<img align="right" alt="coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAM/programmer.gif"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-chauhan-pro&label=Profile%20views&color=0e75b6&style=flat" alt="yash-chauhan-pro" /> </p>
 
